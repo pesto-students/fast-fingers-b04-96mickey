@@ -1,0 +1,27 @@
+.game-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 50vw;
+  max-width: 90vw;
+  min-height: 90vh;
+  padding: 5vh;
+}
+
+.footer {
+  align-self: baseline
+}
+
+.game-section-wrapper {
+  padding: 5vh 0;
+  flex-grow: 2;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.empty {
+  width: 100px;
+}

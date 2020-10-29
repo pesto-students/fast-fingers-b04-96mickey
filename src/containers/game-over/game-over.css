@@ -1,0 +1,15 @@
+.game-over-conatiner {
+    color: white;
+}
+
+.game-name {
+    font-size: 40px;
+}
+
+.high-score-banner {
+    font-size: 38px;
+}
+
+#current-score {
+    font-size: 50px;
+}
