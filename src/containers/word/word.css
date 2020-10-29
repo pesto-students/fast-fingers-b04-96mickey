@@ -1,0 +1,15 @@
+.word-to-match {
+    font-size: 50px;
+}
+
+.match-word {
+    color: #54ba18;
+}
+
+.wrong-word {
+    color: #445298;
+}
+
+.sample-word {
+    color: white;
+}

@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 40px;
+  }
+  
+  .header-section {
+    line-height: 0.9;
+  }
